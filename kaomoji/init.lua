@@ -74,4 +74,4 @@ function M.find_and_paste()
     }):find()
 end
 
-M.find_and_paste()
+return M
